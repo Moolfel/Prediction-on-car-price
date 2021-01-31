@@ -1,2 +1,6 @@
-# Prediction-on-car-price
-Understanding data of cars , prepare, clean them and after build the model
+## Prediction on car prices
+
+
+ML model the price of cars with the available independent variables.
+Understanding how car prices vary with the independent variables. 
+
